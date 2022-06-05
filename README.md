@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning js.
 - 📫 How to reach me?
  
-- 👨‍💻 [Discord](https://discord.gg/JMTPdBV) 
+- 👨‍💻 [Discord](https://discord.gg/JMTPdBV)
 
 
