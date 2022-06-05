@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Elixir-OP
+- 👋 Hi, I’m **_Elixir_**
 - 👀 I’m interested in FiveM Development.
 - 🌱 I’m currently learning js.
-- 📫 How to reach me Discord .
+- 📫 How to reach me?
+ 
+- 👨‍💻 [Discord](https://discord.gg/JMTPdBV) 
 
-<!---
-Elixir-OP/Elixir-OP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
